@@ -1,0 +1,127 @@
+@charset "utf-8";
+.wechat01_1{height:200px;margin:20px 0 40px;}.wechat01_cont{position:relative;max-width:1200px;height:200px}
+.wechat01_cont ul {
+    display: flex;
+    justify-content: center;
+}
+.wechat01_cont li{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    position:absolute;top:0;width:940px;height:200px;transition:all 1s;-webkit-transform-origin:0 0;-webkit-transform:perspective(800px) rotateX(0deg);transform-origin:0 0;transform:perspective(800px) rotateX(0deg)}
+.wechat01_cont .wechat01_list{
+    position:relative;float:left;
+    width:200px;
+    height:190px;margin-right:38px;border:1px solid #cfcfcf;background:#fff;transition:all .35s ease 0s;overflow:hidden}.wechat01_cont .wechat01_list:hover{border:1px solid #1ccbc6}
+.wechat01_cont .wechat01_list1{
+    background:#fff url(../img/wechat01_icon1.png) no-repeat center;
+    background-size: 80% 80%;
+}.wechat01_cont .wechat01_list2{
+     background:#fff url(../img/wechat01_icon2.png) no-repeat center;
+     background-size: 80% 80%;
+ }
+.wechat01_cont .wechat01_list3{
+    background:#fff url(../img/wechat01_icon3.png) no-repeat center;
+    background-size: 80% 80%;
+}
+.wechat01_cont .wechat01_list4{
+     background:#fff url(../img/wechat01_icon4.png) no-repeat center;
+     background-size: 80% 80%;
+}
+.wechat01_cont .wechat01_list5{
+    background:#fff url(../img/wechat01_icon5.png) no-repeat center;
+    background-size: 80% 80%;
+}
+.wechat01_cont .wechat01_list6{
+    background:#fff url(../img/wechat01_icon6.png) no-repeat center;
+    background-size: 80% 80%;
+}
+.wechat01_cont .wechat01_list7{
+    background:#fff url(../img/wechat01_icon7.png) no-repeat center;
+    background-size: 80% 80%;
+}
+.wechat01_cont .wechat01_list8{
+    background:#fff url(../img/wechat01_icon7.png) no-repeat center;
+    background-size: 80% 80%;
+}
+.wechat01_cont .wechat01_list:last-child{margin-right:0}.wechat01_cont .csow{position:absolute;top:50%;right:-46px;width:24px;height:50px;margin-top:-33px;border:1px solid #ccc;background:#fff}.wechat01_cont .csow a{display:block;width:24px;height:25px}.wechat01_cont .csow .csow_top{background:url(../img/csow_top.png) no-repeat}.wechat01_cont .csow .csow_botm{background:url(../img/csow_botm.png) no-repeat}
+.wechat01_cont .wechat_botm{position:absolute;bottom:0;left:0;width:200px;height:95px;text-align:center;font-size:20px;color:#333}
+.wechat01_cont .wechat_botm p{padding-top:43px}
+.wechat01_cont .wechat01_list .fa_txt{
+    display:block;position:absolute;top:-1px;left:-1px;
+    border: solid 1px #00b0fc;
+    width:200px;height:190px;background:#00b0fc;opacity:0;transition:all .6s;color:#fff}.wechat01_cont .wechat01_list:hover .fa_txt{opacity:1}
+.wechat01_cont .wechat01_list .fa_txt_tit{
+    width:140px;margin:0 auto;
+    margin-top:30px;padding-bottom:12px;
+    border-bottom:1px solid #fff;text-align:center;font-size:18px;font-weight: normal}
+.wechat01_cont .wechat01_list .fa_txt_c{
+    width:200px;margin:0 auto;
+    padding: 0 30px;
+    padding-top:10px;
+    box-sizing: border-box;
+    text-align:Justify;
+    text-justify:inter-ideograph;
+    line-height:26px;font-size:14px;
+    font-weight: normal
+}.wechat01_cont .csowlist{-webkit-transform-origin:0 0;-webkit-transform:perspective(800px) rotateX(180deg);transform-origin:0 0;transform:perspective(800px) rotateX(180deg);opacity:0}.zxmore{width:190px;height:38px;border:1px solid #ccc;transition:all 1s;line-height:38px}.zxmorea:hover{border:1px solid #14acae;box-shadow:inset 190px 0 0 0 #14acae}.zxmore a{display:block;padding-left:79px;background:url(../img/zxmore_icon.png) no-repeat 49px center;transition:all 1s;font-size:16px;color:#666}.zxmorea a:hover{background:url(../img/zxmore_icon1.png) no-repeat 49px center;color:#fff}.wechat02{background:url(../img/wechat02_bg.jpg) no-repeat;padding-bottom:53px}
+.wechat02_cont{max-width:1170px;padding-top:60px}.wechat02_cont li{float:left;width:244px;margin-right:64px;overflow:hidden;cursor:pointer}.wechat02_cont li:last-child{margin-right:0}.wechat02_cont li img{transition:all .6s ease;-webkit-transform:scale(1);transform:scale(1)}.wechat02_cont li:hover img{-webkit-transform:scale3d(1.1,1.1,1);transform:scale3d(1.1,1.1,1);-webkit-transform:scale(1.1);transform:scale(1.1)}.wechat02_swiper{}.wechat02-pagination .swiper-pagination-bullet{width:16px;height:16px;background:url(../img/wechat02_icon1.png) no-repeat;opacity:1}.wechat02-pagination .swiper-pagination-bullet-active{background:url(../img/wechat02_icon2.png) no-repeat}
+.wechat03_cont{max-width:1170px;padding-bottom:49px}.liuct01{margin:64px 0 83px}.liuct01 li{position:relative;float:left;cursor:pointer}
+.liuct01 li .liuct01_s{
+    position:relative;float:left;
+    width:162px;height:117px;
+    border-radius:12px;
+}.liuct01 li .liuct01_s span{display:block;padding-top:12px;text-align:center;font-size:16px;color:#666}
+.liuct01 li .liuct01_1{background: #ddd url(../img/liuc_icon2.png) no-repeat center}
+.liuct01 li .liuct01_2{background: #ddd url(../img/liuc_icon2.png) no-repeat center}
+.liuct01 li .liuct01_3{background: #ddd url(../img/liuc_icon3.png) no-repeat center}
+.liuct01 li .liuct01_4{background: #ddd url(../img/liuc_icon4.png) no-repeat center}
+.liuct01 li .liuct01_5{background: #ddd url(../img/liuc_icon5.png) no-repeat center}
+.liuct01 li .liuct01_6{background: #ddd url(../img/liuc_icon6.png) no-repeat center}
+.liuct01 li .liuct01_7{background: #ddd url(../img/liuc_icon7.png) no-repeat center}
+.liuct01 li .liuct01_8{background: #ddd url(../img/liuc_icon8.png) no-repeat center}
+.liuct01 li .liuct01_9{background: #ddd url(../img/liuc_icon9.png) no-repeat center}
+.liuct01 li .liuct01_10{background: #ddd url(../img/liuc_icon10.png) no-repeat center}
+.wp16 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wp16 .liuct01_i {
+    width: 21px!important;
+    height: 67px!important;
+}
+.wp21 {
+    width: 249px;
+    height: 117px;
+}
+.liuct01 ul {
+    display: flex;
+    flex-wrap: wrap;
+    z-index: 10;
+    position: relative;
+}
+.liuct01 li .liuct01_i{
+    margin-top: 50px;
+    margin: 50px 10px 0;
+    float:left;width:67px;height:21px;
+    background:url(../img/liuct01_s_icon1.png) no-repeat center;
+    background-size: 100% 100%;
+}
+.liuct_txt{
+    position:absolute;top:-1px;
+    border: solid 1px #00b0fc;
+    left:-1px;width:162px;height:117px;background:#00b0fc;border-radius:12px;opacity:0;transition:all .6s;color:#fff}.liuct_txt strong{display:block;padding-top:4px;text-align:center;font-weight:700;font-size:22px}.liuct_txt em{display:block;text-align:center;font-weight:700;font-size:16px}.liuct_txt p{width:97px;margin:0 auto;line-height:24px;font-size:12px}.liuct01 li .liuct01_s:hover .liuct_txt{opacity:1}.liuct02{height:174px}.liuct02 .liuct02_z{position:relative;float:left;width:584px;height:172px;border:1px solid #ccc;border-radius:12px;transition:all .6s ease;cursor:pointer}.liuct02 .liuct02_z:last-child{float:right}.liuct02 .liuct02_z dl{padding:30px 0 0 50px}.liuct02 .liuct02_z dt{float:left;width:118px;height:118px;border-radius:50%;overflow:hidden}.liuct02 .liuct02_z dt img{transition:all .6s ease;-webkit-transform:scale(1);transform:scale(1)}.liuct02 .liuct02_z:hover dt img{-webkit-transform:scale3d(1.2,1.2,2);transform:scale3d(1.2,1.2,2);-webkit-transform:scale(1.2);transform:scale(1.2)}.liuct02 .liuct02_z:hover{border:1px solid #14acae}.liuct02 .liuct02_z:hover .liuc_btn{border:1px solid #14acae}.liuct02 .liuct02_z dd{float:left;width:161px;margin-left:20px;padding-top:30px}.liuct02 .liuct02_z dd span{font-size:20px;color:#333;font-weight:700}.liuct02 .liuct02_z dd p{padding-top:12px;font-size:16px;color:#666}.liuc_btn{position:absolute;top:63px;right:41px;width:144px;height:49px;line-height:49px;border:1px solid #b2b2b2;transition:all 1s}.liuc_btn a{display:block;padding-left:59px;background:url(../img/liuc_btn_icon1.png) no-repeat 24px center;transition:all 1s;font-size:16px;color:#666}.liuc_btn:hover{box-shadow:inset 144px 0 0 0 #14acae;border:1px solid #14acae}.liuc_btn a:hover{background:url(../img/liuc_btn_icon11.png) no-repeat 24px center;color:#fff}.wechat04{height:288px;background:url(../img/wechat04_bg.jpg) no-repeat center}.wechat04_cont{position:relative;max-width:1200px;height:288px}.wechat04_cont a{display:block;max-width:1200px;height:288px}.wechat04_txt{position:absolute;top:120px;left:535px;width:356px;height:36px}.wechat04_icon{position:absolute;top:169px;left:692px;width:23px;height:31px}.wechat04_icon1{position:absolute;top:-22px;left:-21px;width:50px;height:50px;border-radius:50%;border:3px solid #288e94;-webkit-animation:anim-effect-boris .6s linear 0s infinite;animation:anim-effect-boris .6s linear 0s infinite}.wechat04_icon3{position:absolute;top:0;left:0;width:11px;height:11px;border-radius:50%;border:2px solid #288e94}.wechat04_icon2{position:absolute;top:6px;left:0;z-index:5;width:23px;height:25px;background:url(../img/shou2.png) no-repeat}@-webkit-keyframes anim-effect-boris{0%{-webkit-transform:scale3d(.3,.3,1);transform:scale3d(.3,.3,1)}25%,50%{opacity:1}to{opacity:0;-webkit-transform:scale3d(1.2,1.2,1);transform:scale3d(1.2,1.2,1)}}@keyframes anim-effect-boris{0%{-webkit-transform:scale3d(.3,.3,1);transform:scale3d(.3,.3,1)}25%,50%{opacity:1}to{opacity:0;-webkit-transform:scale3d(1.2,1.2,1);transform:scale3d(1.2,1.2,1)}}.wap_case_menu,.liuct01 li i{display:none}.fa_txtba span{position:absolute;left:50%;top:50%;display:block;width:64px;height:30px;margin-top:-15px;margin-left:-32px;border-bottom:1px solid #fff}.fa_txtba span a{color:#fff}.wechat02-pagination{margin-top:30px;text-align:center}.wechat02-pagination span{margin-right:15px}.wechat02-pagination span:last-child{margin-right:0}@media screen and (max-width:1320px){.wechat01_cont,.wechat02_cont,.wechat03_cont,.wechat04_cont{width:92%;margin:0 auto}
+    .wechat01_cont .wechat01_list{
+        width:22%;margin-right:3.5%;background-position:center}
+    .wechat01_cont .wechat01_list .fa_txt{width:100%}
+    .wechat01_cont .wechat01_list .fa_txt_c{width:82%}.wechat01_cont .wechat_botm{width:100%}
+    .wechat01_cont .wechat_botm p{width:100%;text-align:center}.wechat02_cont li{width:22%;margin-right:4%}.wechat02_cont li img{width:100%}.liuct01 li{width:11%}.liuct01 li .liuct01_i{width:8%}.liuct01 li .liuct01_s{width:90%}.liuct_txt{width:100%}.liuct02 .liuct02_z{width:48.5%}.wechat04{background-size:cover;width:100%;height:200px}.wechat04_icon{top:135px}.wechat04_txt{top:65px}.liuc_btn{width:135px;height:40px;line-height:40px;right:20px}.liuct02 .liuct02_z dt{width:100px;height:100px}.liuct02 .liuct02_z dt img{width:100%}.liuct02 .liuct02_z dl{padding-left:20px}}@media screen and (max-width:1250px){.liuct02 .liuct02_z dt{width:80px;height:80px}.liuct02 .liuct02_z dd{padding-top:15px}.liuct02 .liuct02_z{height:140px}.liuc_btn a{padding-left:35px;background:url(../img/liuc_btn_icon1.png) no-repeat 5px center}.liuc_btn a:hover{background:url(../img/liuc_btn_icon11.png) no-repeat 5px center}.liuc_btn{width:108px}
+    .wechat01_cont .wechat01_list .fa_txt_tit{font-size:18px}.wechat01_cont .wechat01_list .fa_txt_c{font-size:12px;line-height:22px}.liuct_txt p{width:92.5%;line-height:20px}.liuct_txt strong{font-size:18px}.liuct_txt em{font-size:14px}}@media screen and (max-width:996px){.wechat02{}.liuct01{margin-bottom:0}.wechat04_txt{left:360px}.wechat04_icon{left:478px}.wechat02_cont{padding-top:60px}.wechat02_swiper{}.liuct02 .liuct02_z dt{width:80px;height:80px;margin-left:15%}.liuct02 .liuct02_z dd{padding-top:15px}.liuct02 .liuct02_z{height:160px}.liuct02 .liuct02_z dl{padding-top:15px}.liuc_btn a{padding-left:35px;background:url(../img/liuc_btn_icon1.png) no-repeat 5px center}.liuc_btn a:hover{background:url(../img/liuc_btn_icon11.png) no-repeat 5px center}.liuc_btn{top:105px;right:50%;width:120px;margin-right:-60px}.wechat04{background-position:-195px}
+    .wechat01_cont .wechat01_list .fa_txt_tit{font-size:18px}.wechat01_cont .wechat01_list .fa_txt_c{font-size:12px;line-height:22px}.wechat01_cont .csow{left:50%;top:300px;margin-left:-26px;width:52px;height:25px}.wechat01_cont .csow a{display:inline-block}.liuct01 li{width:20%;height:150px}.liuct01 li .liuct01_i{display:none}.liuct01 li .liuct01_3{background:url(../img/liuc_icon3.png) no-repeat bottom center}.liuct01 li .liuct01_1{background:url(../img/liuc_icon2.png) no-repeat bottom center}.liuct01 li .liuct01_2{background:url(../img/liuc_icon2.png) no-repeat bottom center}.liuct01 li .liuct01_4{background:url(../img/liuc_icon4.png) no-repeat center}.liuct01 li .liuct01_5{background:url(../img/liuc_icon5.png) no-repeat bottom center}.liuct01 li .liuct01_6{background:url(../img/liuc_icon6.png) no-repeat bottom center}.liuct01 li .liuct01_7{background:url(../img/liuc_icon7.png) no-repeat bottom center}.liuct01 li .liuct01_8{background:url(../img/liuc_icon8.png) no-repeat bottom center}.liuct01 li .liuct01_9{background:url(../img/liuc_icon9.png) no-repeat bottom center}}@media screen and (max-width:768px){.fa_txtba span a{margin-left:.7em}.wechat02_swiper{display:none}.wechat02_swiper1{display:block}.wechat02_cont li{width:100%;height:auto}.wechat02_swiper{height:auto}.wechat02{height:auto;padding-bottom:.6rem}.wechat02_cont{padding-top:50px}.liuct01 li{width:33.3%;height:150px}.liuct01 li .liuct01_s:hover .liuct_txt{opacity:0}
+    .wechat01_1{height:auto}.wechat01_tit{width:80%;margin:0 auto}.wechat01_tit img{width:100%}.wechat01_cont li{height:1.8rem}.wechat01_cont .wechat01_list{width:1.6rem;margin-right:.83rem;height:1.6rem;box-sizing:border-box;margin-bottom:0;overflow:hidden;background-size:2rem}
+    .wechat01_cont .wechat_botm p{font-size:18px;padding-top:43px}.wechat01_cont li{position:static}.wechat01_cont li .wechat01_list:nth-of-type(3),.wechat01_cont li .wechat01_list:nth-of-type(4){margin-top:0}.wechat01_cont .csow{left:50%;top:480px;margin-left:-26px;width:52px;height:25px}.wechat01_cont .csow a{display:inline-block}
+    .wechat01_1{margin-bottom:40px;margin-top:.8rem}.wechat01{padding-bottom:40px}.liuct01{margin:.6rem 0 0}.liuct01 li .liuct01_s{height:120px}.liuct02 .liuct02_z{width:100%}.wechat03_cont{padding-bottom:2.3rem}.liuc_btn{right:50%;margin-right:-67px;margin-top:40px;top:65px}.liuct02 .liuct02_z dl{padding-top:10px}.liuct02 .liuct02_z{height:160px}.liuct02 .liuct02_z:last-child{margin-top:20px}.liuct02 .liuct02_z dt{width:60px;height:60px;margin-top:15px;margin-left:10%}.liuct02 .liuct02_z dd{padding-top:16px}.wechat04_txt img{width:100%}.wechat04_txt{left:10%;width:80%}.wechat04_icon{left:50%;margin-left:-12px}.wechat04{background-size:cover;background-position:-230px}.wechat01_1{background-image:none}.liuct02,.wechat04{display:none}.wechat01_cont .wechat_botm{height:1.7rem;font-size:.4rem}.wechat01_cont .csow{display:none}.wechat01_cont{height:auto}.wechat01_tit,.wechat02_tit,.wechat03_tit{padding-top:.59rem}.wechat02_tit img,.wechat03_tit img{width:70%}.loso{display:block;position:relative;width:50%;margin:0 auto}.swiper-button-nexte,.swiper-button-preve{width:40px;height:19px}.swiper-button-next,.swiper-container-rtl .swiper-button-preve{background:url(../img/aa2.png) no-repeat right;right:-85px}.swiper-button-prev,.swiper-container-rtl .swiper-button-nexte{background:url(../img/aa1.png) no-repeat left;left:-85px}
+    .wechat01_cont .wechat01_list .fa_txt_tit{width:100%;margin-top:.3rem;font-size:20px}.wechat01_cont .wechat01_list .fa_txt_c{width:95%;height:.7rem;overflow:hidden}.wechat01_cont .wechat01_list .fa_txt{left:auto;height:100%;top:0}.liuct01 li .liuct01_s span{padding-top:8px;font-size:14px}.liuct01 li i{margin-top:7px;display:block;font-size:13px;text-align:center}.wechat02-pagination{display:none}}@media screen and (max-width:570px){.wechat01_cont .wechat_botm{height:2rem}.wap_app3_list li p{height:18px;overflow:hidden;font-size:.2rem}}@media screen and (max-width:500px){.swiper-button-next,.swiper-container-rtl .swiper-button-preve{background:url(../img/aa2.png) no-repeat right;right:-73px}.swiper-button-prev,.swiper-container-rtl .swiper-button-nexte{background:url(../img/aa1.png) no-repeat left;left:-73px}
+    .wechat01_cont .wechat_botm p{font-size:10px;padding-top:43px}.wechat01{padding-bottom:0}
+    .wechat01_cont .wechat01_list .fa_txt_tit{font-size:10px}.wechat01_cont .wechat01_list .fa_txt_c{font-size:10px;padding-top:5px}.fa_txtba span{font-size:12px}}@media screen and (max-width:450px){.wechat01_cont .wechat_botm{height:2.7rem}}

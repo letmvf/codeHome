@@ -1,0 +1,184 @@
+.pinpai-main-1 {
+    width: 100%;
+    height: 476px;
+    background: url("../img/banner2.png") no-repeat center;
+    background-size: 100% 100%;
+}
+
+.pinpai-main-3 {
+    width: 100%;
+    height: 443px;
+    background: url("../img/banner2.png") no-repeat center;
+    background-size: 100% 100%;
+    padding: 60px 0;
+    box-sizing: border-box;
+}
+
+.pinpai-main-3-index {
+    width: 100%;
+    max-width: 1170px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.pinpai-main-3-index-xw {
+    width: 1060px;
+    border: solid 1px #18aef5;
+    border-right: none;
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0 auto;
+}
+
+.pinpai-main-4-index-xw {
+    width: 910px;
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.pinpai-main-5-index-xw {
+    width: 800px;
+    height: 360px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background: url("../img/banner2.png") no-repeat center;
+    background-size: 100% 100%;
+}
+
+.pinpai-main-4-index-xw-i {
+    width: 160px;
+    height: 257px;
+    border-radius: 80px;
+    background: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #333333;
+}
+
+.pinpai-main-4-index-xw-i1 {
+    background: #f2f2f2 url("../img/banner2.png") no-repeat center 55px;
+    background-size: 64px 64px;
+}
+
+.pinpai-main-4-index-xw-i1:hover {
+    color: #fff;
+    background: #18aef5 url("../img/banner3.png") no-repeat center 55px;
+    background-size: 64px 64px;
+}
+
+.pinpai-main-4-index-xw-i .sp11111 {
+    margin-top: 150px;
+}
+
+.pinpai-main-4-index-xw-i .sp11112 {
+    margin-top: 10px;
+}
+
+.pinpai-main-3-index-xw>span {
+    width: 264px;
+    height: 160px;
+    border-right: solid 1px #18aef5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-size: 18px;
+    background: url("../img/app01_img.jpg") no-repeat center 19px;
+    background-size: 62px;
+}
+
+.pinpai-main-3-index-xw-i .sp11112 {
+    margin-top: 100px;
+}
+
+.pinpai-main-3-index-xw-i1:hover {
+    color: #18aef5;
+    background: url("../img/app02_dd1.png") no-repeat center 19px;
+    background-size: 62px;
+}
+
+.pinpai-main-3-index-xw-i .sp11111 {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 24px;
+    letter-spacing: 0px;
+}
+
+.pinpai-main-3-index>span {
+    width: 100%;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0px;
+    color: #cccccc;
+    display: block;
+    text-align: center;
+    margin: 30px 0 50px;
+}
+
+.pinpai-main-2 {
+    width: 100%;
+    height: 609px;
+    max-width: 1170px;
+    background: #fff;
+    margin: 0 auto;
+    padding: 60px 0;
+    box-sizing: border-box;
+}
+
+.pinpai-main-2-2 {
+    width: 100%;
+    height: 469px;
+    display: flex;
+    justify-content: center;
+    overflow-y: hidden;
+}
+
+.pinpai-main-2-2-div {
+    display: flex;
+    flex-direction: column;
+    width: 144px;
+    height: 168px;
+    justify-content: space-between;
+    margin: 0 24px;
+    margin-top: 150px;
+}
+
+.pinpai-main-2-2-div span {
+    width: 144px;
+    height: 44px;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #666666;
+    background: #F2F2F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pinpai-main-2-2-img {
+    width: 718px;
+    height: 479px;
+}
+
+.pinpai-main-4 {
+    width: 100%;
+    max-width: 1170px;
+    height: 520px;
+    padding: 60px 0 30px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
